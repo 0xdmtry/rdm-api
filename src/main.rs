@@ -1,3 +1,6 @@
+mod instructions;
+mod utils;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Raydium API");
 }
