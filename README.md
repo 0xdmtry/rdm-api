@@ -4,7 +4,7 @@ This project is a tool written in Rust for interacting with the Raydium CP-AMM a
 
 ## Features
 
-- **Initialize Pool**: Create a new liquidity pool for a given pair of SPL tokens.
+- **Initialize Pool**: Create a new  CP-AMM or CLMM liquidity pool for a given pair of SPL tokens.
 - **Deposit Liquidity**: Add liquidity to an existing CP-AMM pool to mint LP tokens.
 - **Withdraw Liquidity**: Burn LP tokens to redeem the underlying assets from the CP-AMM pool.
 - **Atomic Operations** for CP-AMM:
